@@ -23,3 +23,15 @@ Defeating an enemy with violence spares them instead of them running away.
 Rhythm Editor
 
 Enables debug mode and makes it so that starting a new game in Chapter 3 loads up the rhythm game editor.
+
+Rhythm Editor v2
+
+A tool that lets you import songs easily into Chapter 3, as well as letting you easily open the rhythm editor.
+
+Chart Importer
+
+Imports user-created charts into Chapter 4.
+
+Chart Resetter
+
+Resets Chapter 4's charts to allow for more importing.
