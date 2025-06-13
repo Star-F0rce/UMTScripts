@@ -19,3 +19,7 @@ Restores a removed rose animation and a censored Susie line for Chapter 4
 Violent Spare
 
 Defeating an enemy with violence spares them instead of them running away.
+
+Rhythm Editor
+
+Enables debug mode and makes it so that starting a new game in Chapter 3 loads up the rhythm game editor.
